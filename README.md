@@ -3,8 +3,8 @@
 
 #### I'm a Graduate Student 👨‍🎓, Engineer 👩‍💼, Data Analyst Candidate 💻!
 - 🌱 I’m currently learning 😂
-- 🥅 2021 Goals: Learning machine learning and developing data science projects on sustainability and ecology. 🤖
-- ⚡ Fun fact: I love to coffee ☕, travel ✈️, being in nature 🌳
+- 🥅 2022 Goals: Learning machine learning and developing data science projects on sustainability and ecology. 🤖
+- ⚡ Fun fact: I love to travel ✈️, being in nature 🌳
 
 #### 📩 Connect with me:
 
