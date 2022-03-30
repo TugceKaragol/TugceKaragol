@@ -1,7 +1,7 @@
 ### Hi, I'm Tuğçe 👋
 
 
-#### I'm a Graduate Student 👨‍🎓, Engineer 👩‍💼, Data Analyst Candidate 💻!
+#### I'm a Graduate Student 👨‍🎓, Engineer 👩‍💼, Data Scientist Candidate 💻!
 - 🌱 I’m currently learning 😂
 - 🥅 2022 Goals: Learning machine learning and developing data science projects. 🤖
 - ⚡ Fun fact: I love to travel ✈️, being in nature 🌳
